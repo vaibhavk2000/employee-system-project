@@ -25,6 +25,8 @@ Create a simple **Employee Management System** that allows you to:
 - ✅ Arrays to store objects
 - ✅ Encapsulation and private fields
 - ✅ Reusable methods with parameters and return types
+  
+---
 
 To deploy this **Java-based Employee Management System** to the cloud, the exact deployment process depends on whether it is currently a **Console/Command-Line application** or a **Web application** (e.g., Spring Boot or Servlets).
 
